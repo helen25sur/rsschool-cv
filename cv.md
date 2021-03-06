@@ -3,6 +3,7 @@
 * tel. +38-066-189-02-85
 * email: elen21surilova@gmail.com, oblap-lena@yandex.ru
 * Skype: oblap17lena
+
 ---
 
 ## About me
@@ -16,6 +17,7 @@ My current objective is to change the job and deepen into the area of WEB-develo
 * knowledge of Sass preprocessor; 
 * basic knowledge of Javascript; 
 * knowledge Git version control system;
+
 ---
 
 ## Profession experience
