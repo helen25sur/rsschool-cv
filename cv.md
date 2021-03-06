@@ -7,7 +7,7 @@
 
 ## About me
 My current objective is to change the job and deepen into the area of WEB-development, as my current occupation has awoken this interest. I have been leading and editing the website of the National University "Odessa Law Academy" since 2017 applying HTML and CSS. The website, however, was designed and administered by Joomla CMS (Content Management System), this fact entails certain limitations, as i did not have an opportunity to participate in the initial development. Besides, my current tasks and job functions are monotonous, and consequently there is no chance to gain new knowledge and skills in the sphere. In this regard, i have decided to acquire new competencies in order to become a professional. I hope to succeed because i am: goal-oriented and self-motivated; diligent and hard-working; concentrated and have analytical thinking; can perform as a team-player or solo; quick learner and strive to new vocational knowledge. Because, as the Chinese say, 
-> ** a journey of a thousand miles begins with a single step. **
+> **a journey of a thousand miles begins with a single step.**
 
 ---
 
@@ -87,7 +87,8 @@ console.log(binarySearch(myList, 11));
 * 2016-2020 Bachelor in Law at the National University "Odessa Law Academy"; 
 * February 2018 - online course "Software Testing" on the QATestLab platform; 
 * October 2020 - December 2020 - Front-End Basic course (layout), Hillel IT-school,  Odessa;  
-* February 2021 to present - Front-End Pro Course (javascript), Hillel IT-school,  Odessa
+* February 2021 to present - Front-End Pro Course (javascript), Hillel IT-school,  Odessa.
+
 ---
 
 ## My English knowledge
