@@ -96,6 +96,7 @@ p {
 .spoiler-code {
     font-family: monospace;
     color: #213291;
+    cursor: pointer;
 }
 
 .projects-container code {

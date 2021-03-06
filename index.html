@@ -62,20 +62,20 @@
                 <p>However, as mentioned above, in my current efforts I maintain and fill in the university website on the Joomla engine. To deepen my knowledge, in 2018 I took the online course “Software Testing” on the QATestLab platform, got a general idea of ​​the testing industry, but my search went on. Then there was scattered reading of the articles on web development, concerning HTML/ CSS, then simulators and marathons on the htmlacademy website, and last year I finally decided to deepen my knowledge in the area and entered the Front-End Basic course (layout) from Hillel IT-school in Odessa. The course was completed in December 2020. </p>
                 <p>The final project within the Front-End basic course is <a href="https://helen25sur.github.io/hofmann/">the Hofmann website</a>, in which i implemented tab switching and displaying different project cards in the section “Our Projects” using CSS only.</p>
                 <p>Now I am learning javascript and within the Front-End Pro course at the same school. I also study algorithms and develop logical thinking. I have started the book “Grocking Algorithms” and rewrite the code proposed into javascript, such as 
-                    <details> <summary class="spoiler-code">a binary search algorithm:</summary> 
                 </p>
+                    <details> <summary class="spoiler-code">a binary search algorithm:</summary> 
                 <code>
                     function binarySearch(list, item) { <br>
                         let low = 0;<br>
                         let high = list.length - 1;<br>
                         <br>
-                        while (low <= high) {<br>
+                        while (low &lt;= high) {<br>
                             let mid = Math.floor((low + high) / 2);<br>
                             let guess = list[mid];<br>
                             if (guess === item) {<br>
                                 return mid;<br>
                             }<br>
-                            if (guess > item) {<br>
+                            if (guess &gt; item) {<br>
                                 high = mid - 1;<br>
                             } else {<br>
                                 low = mid + 1;<br>
