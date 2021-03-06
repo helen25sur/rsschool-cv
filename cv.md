@@ -1,8 +1,8 @@
 # Elena Surilova
 ## Contact information
-* tel. +38-066-189-02-85
-* email: elen21surilova@gmail.com, oblap-lena@yandex.ru
-* Skype: oblap17lena
+- tel. +38-066-189-02-85
+- email: elen21surilova@gmail.com, oblap-lena@yandex.ru 
+- Skype: oblap17lena
 
 ---
 
