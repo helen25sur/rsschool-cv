@@ -1,5 +1,7 @@
 # Olena Surilova
 
+![my avatar](/my-photo.jpg)
+
 ## About me
 
 My current objective is to change the job and deepen into the area of WEB-development, as my current occupation has awoken this interest. I have been leading and editing the website of the National University “Odessa Law Academy” since 2017 applying HTML and CSS.
@@ -11,3 +13,10 @@ I have decided to acquire new competencies in order to become a professional. I 
 - concentrated and have analytical thinking;
 - can perform as a team-player or solo;
 - quick learner and strive to new vocational knowledge.
+
+## Profession experience
+
+**Website Information Administrator**
+National University "Odessa Law Academy" (June 2017 - current time)
+
+## Education
